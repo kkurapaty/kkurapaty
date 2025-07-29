@@ -1,5 +1,3 @@
-
-
 <!--
 **kkurapaty/kkurapaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,13 +26,13 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Kiran Kurapaty
 
-Welcome to my GitHub profile! I'm a full-stack software developer with over **24 years of industry experience**, specializing in **C# .NET**, **WPF**, and high-performance systems. I’ve worked extensively in **investment banking**, focusing on **commodities trading**, **settlement systems**, and **front-office development**.
+Welcome to my GitHub profile! I'm a seasoned full-stack software developer with over **24 years of development experience**, specializing in **C# .NET**, **WPF**, and high-performance systems. I’ve worked extensively in **investment banking**, focusing on **commodities trading**, **settlement systems**, and **front-office development**.
 
 ---
 
 ## 🧑‍💼 About Me
 
-- 💼 Senior Developer / Architect with strong knowledge in enterprise systems.
+- 💼 Senior Consultant / Architect with strong knowledge in enterprise systems.
 - 🏦 Deep domain expertise in **Commodities**, **Gas & Power**, **GoOs**, and **Regulatory Compliance**.
 - 🧠 Passionate about **clean architecture**, **SOLID principles**, and building scalable systems.
 - 🧑‍🏫 Mentor and tech lead with a focus on best practices, code quality, and design patterns.
@@ -60,20 +58,22 @@ Welcome to my GitHub profile! I'm a full-stack software developer with over **24
 
 ---
 
-## 🌍 Languages
+## 🌍 Location 
 
-- 🇬🇧 English (Fluent)  
-- 🇮🇳 Hindi (Fluent)
+- 🇬🇧 England/United Kingdom 
 
 ---
 
 ## 🎯 Hobbies & Interests
 
-- 🎧 Listening to music and building a music recommendation system  
-- 🏍️ Biking and exploring nature  
+- 🎧 Listening to music  
+- 🏍️ Biking and exploring nature
+- 🔭 I’d love to stare at stars in the night 🌙 
 - 💡 Learning new technologies and frameworks  
 - 👨‍🏫 Mentoring junior developers  
 - 📈 Studying financial systems and algorithmic trading
+- 🌱 I’m currently learning MCP, LLM & AI ...
+
 
 ---
 
@@ -89,7 +89,6 @@ Welcome to my GitHub profile! I'm a full-stack software developer with over **24
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkurapaty/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkurapaty@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kkurapaty)
 
 ---
