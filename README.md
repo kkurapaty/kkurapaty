@@ -63,7 +63,6 @@ Welcome to my GitHub profile! I'm a full-stack software developer with over **24
 ## 🌍 Languages
 
 - 🇬🇧 English (Fluent)  
-- 🇮🇳 Gujarati (Native)  
 - 🇮🇳 Hindi (Fluent)
 
 ---
